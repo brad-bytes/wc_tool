@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But do track directories
+!*/
+
+# Do track your C source and header files
+!*.c
+!*.h
+!.gitignore
+!Makefile
